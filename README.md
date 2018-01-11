@@ -1,7 +1,7 @@
 # **Mastering ROS for robotics programming** _2nd edition_.
 
 
-![](/wpage.unina.it/jonathan.cacace/Media/book_cover.png  "mastering_ros_for_robotics_programming")
+![](wpage.unina.it/jonathan.cacace/Media/book_cover.png  "mastering_ros_for_robotics_programming")
 
 
 
