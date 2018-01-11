@@ -25,6 +25,24 @@ The first edition was based on ROS Indigo and Jade. In this edition we update co
 ## **Description**
 This repository contains one sub-module for each chapter source code, in this way you can directly clone and pull repository to be updated with the last version of the software of the whole book.
 
+
+- **Chapter 1**: Introduction to ROS and its Package Management  
+- **Chapter 2**: Working with 3D Robot Modeling in ROS  
+- **Chapter 3**: Simulating Robots Using ROS and Gazebo  
+- **Chapter 4**: Simulating Robots Using ROS and V-REP 
+- **Chapter 5**: Using ROS MoveIt! and Navigation stack  
+- **Chapter 6**: Working with Pluginlib, Nodelets and Gazebo plugins 
+- **Chapter 7**: Writing ROS Controllers and Visualization plugins
+- **Chapter 8**: Interfacing I/O boards, sensors and actuators to ROS
+- **Chapter 9**: Programming Vision sensors using ROS, Open-CV and PCL
+- **Chapter 10**: Building and interfacing a differential drive mobile robot hardware in ROS
+- **Chapter 11**: Exploring advanced capabilities of ROS-MoveIt!
+Using ROS in 
+- **Chapter 12**: Matlab and Simulink 
+- **Chapter 13**: ROS for Industrial Robots
+- **Chapter 14**: Troubleshooting and best practices in ROS
+
+
 ### **Installation** 
 
 
