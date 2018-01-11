@@ -1,4 +1,4 @@
-# **Mastering ROS for robotics programming** _2nd edition_.
+# **Mastering ROS for robotics programming** _2nd edition_
 #### Design, build and simulate complex robots using Robot Operating System.
 
 
