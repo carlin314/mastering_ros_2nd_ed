@@ -1,0 +1,3 @@
+[submodule "mastering_ros_demo_pkg"]
+	path = mastering_ros_demo_pkg
+	url = https://github.com/jocacace/mastering_ros_demo_pkg
