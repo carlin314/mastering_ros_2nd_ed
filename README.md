@@ -1,20 +1,31 @@
 # **Mastering ROS for robotics programming** _2nd edition_.
+#### Design, build and simulate complex robots using Robot Operating System.
+
+[Book](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) source code main repository.
+
+![book_cover](http://wpage.unina.it/jonathan.cacace/Media/book_cover.png  "mastering_ros_for_robotics_programming")
+
+## **Author**
+[Jonathan Cacace](http://wpage.unina.it/jonathan.cacace), PhD.
+
+First edition of the book by Dr. [Josep Lentin](https://www.linkedin.com/in/lentinjoseph/): [Mastering ROS for robotics programming](http://mastering-ros.com/).
+
+### **About the book**
+Todays era is gaining a lot of traction towards robotics in various industries where consistency and perfection is mattered the most. Automation is playing a major role today, and most of it is achieved with robotic applications and various platforms that support robotics. The Robot Operating System (ROS) is a modular software platform to develop generic robotic applications. This book will be focusing on the most stable release of ROS (Kinetic Kame) and will discuss the advanced concepts in robotics and how to program using ROS.
+
+_Paperback_: 660 pages.  
+_Publisher_: Packt Publishing - ebooks Account.  
+_Language_: English.  
+_ISBN-10_: 1788478959.  
+_ISBN-13_: 978-1788478953.  
+
+### **Difference between first and second edition**
+The first edition was based on ROS Indigo and Jade. In this edition we update concepts and source codes eventually deprecated or outdated. New fundamental topics for robotic applications and two completely new chapters have been added in this _2nd_ edition. 
+
+## **Description**
+This repository contains one sub-module for each chapter source code, in this way you can directly clone and pull repository to be updated with the last version of the software of the whole book.
+
+### **Installation** 
 
 
-![](wpage.unina.it/jonathan.cacace/Media/book_cover.png  "mastering_ros_for_robotics_programming")
 
-
-
-### **Author**
-[Jonathan Cacace](wpage.unina.it/jonathan.cacace), PhD.
-
-First edition edited by [Josep Lentin](https://www.linkedin.com/in/lentinjoseph/).
-
-
-#### **About the book**
-Book description (short)
-Ros Kinetic, previous version Ros Indigo and Jade...
-
-Outline
-
-code:
