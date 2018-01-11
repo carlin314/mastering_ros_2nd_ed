@@ -29,7 +29,7 @@ This repository contains one sub-module for each chapter source code, in this wa
 Click on the chapter title to directly view the original repository of the chapter code.
 
 - **Chapter 1**: [Introduction to ROS and its Package Management](https://github.com/jocacace/mastering_ros_demo_pkg)  
-- **Chapter 2**: Working with 3D Robot Modeling in ROS  
+- **Chapter 2**: [Working with 3D Robot Modeling in ROS](https://github.com/jocacace/mastering_ros_robot_description_pkg)  
 - **Chapter 3**: Simulating Robots Using ROS and Gazebo  
 - **Chapter 4**: Simulating Robots Using ROS and V-REP 
 - **Chapter 5**: Using ROS MoveIt! and Navigation stack  
