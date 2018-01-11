@@ -1,9 +1,10 @@
 # **Mastering ROS for robotics programming** _2nd edition_.
 #### Design, build and simulate complex robots using Robot Operating System.
 
+
 [Book](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) source code main repository.
 
-![book_cover](http://wpage.unina.it/jonathan.cacace/Media/book_cover.png?style=centerme  "mastering_ros_for_robotics_programming")
+![book_cover](http://wpage.unina.it/jonathan.cacace/Media/book_cover.png "mastering_ros_for_robotics_programming")
 
 ## **Author**
 [Jonathan Cacace](http://wpage.unina.it/jonathan.cacace), PhD.
@@ -25,6 +26,7 @@ The first edition was based on ROS Indigo and Jade. In this edition we update co
 ## **Description**
 This repository contains one sub-module for each chapter source code, in this way you can directly clone and pull repository to be updated with the last version of the software of the whole book.
 
+Click on the chapter title to directly view the original repository of the chapter code.
 
 - **Chapter 1**: Introduction to ROS and its Package Management  
 - **Chapter 2**: Working with 3D Robot Modeling in ROS  
@@ -44,6 +46,10 @@ Using ROS in
 
 
 ### **Installation** 
+Download all the submodules in the _src_ directory of your ROS workspace:
 
+```git clone https://github.com/jocacace/mastering_ros_2nd_ed```
 
+To pull the submodules in case of remote repository update, run the following command in the mastering\_ros\_2nd\_ed directory:
 
+```git submodule update --recursive --remote```
