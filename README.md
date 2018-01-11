@@ -53,3 +53,7 @@ Download all the submodules in the _src_ directory of your ROS workspace:
 To pull the submodules in case of remote repository update, run the following command in the mastering\_ros\_2nd\_ed directory:
 
 ```git submodule update --recursive --remote```
+
+### **Get this book** (in pre-order)
+- [Packt Publishing](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) 
+- [Amazon](https://www.amazon.com/Mastering-ROS-Robotics-Programming-Second/dp/1788478959)
