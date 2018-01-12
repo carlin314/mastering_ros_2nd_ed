@@ -2,7 +2,7 @@
 #### Design, build and simulate complex robots using Robot Operating System.
 
 
-[Book](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition){:target="_blank"} source code main repository.
+[Book](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) source code main repository.
 
 ![book_cover](http://wpage.unina.it/jonathan.cacace/Media/book_cover.png "mastering_ros_for_robotics_programming")
 
@@ -26,23 +26,42 @@ The first edition was based on ROS Indigo and Jade. In this edition we update co
 ## **Description**
 This repository contains one sub-module for each chapter source code, in this way you can directly clone and pull repository to be updated with the last version of the software of the whole book.
 
-Click on the chapter title to directly view the original repository of the chapter code.
+Click on the repository name to directly get the code use in the chapters.
 
-- **Chapter 1**: [Introduction to ROS and its Package Management](https://github.com/jocacace/mastering_ros_demo_pkg)  
-- **Chapter 2**: [Working with 3D Robot Modeling in ROS](https://github.com/jocacace/mastering_ros_robot_description_pkg)  
-- **Chapter 3**: Simulating Robots Using ROS and Gazebo  
-- **Chapter 4**: Simulating Robots Using ROS and V-REP 
-- **Chapter 5**: Using ROS MoveIt! and Navigation stack  
-- **Chapter 6**: Working with Pluginlib, Nodelets and Gazebo plugins 
-- **Chapter 7**: Writing ROS Controllers and Visualization plugins
-- **Chapter 8**: Interfacing I/O boards, sensors and actuators to ROS
-- **Chapter 9**: Programming Vision sensors using ROS, Open-CV and PCL
-- **Chapter 10**: Building and interfacing a differential drive mobile robot hardware in ROS
-- **Chapter 11**: Exploring advanced capabilities of ROS-MoveIt!
-Using ROS in 
-- **Chapter 12**: Matlab and Simulink 
-- **Chapter 13**: ROS for Industrial Robots
-- **Chapter 14**: Troubleshooting and best practices in ROS
+- **Chapter 1**: _Introduction to ROS and its Package Management_:
+ - [mastering\_ros\_demo\_pkg](https://github.com/jocacace/mastering_ros_demo_pkg)  
+
+- **Chapter 2**: _Working with 3D Robot Modeling in ROS_
+ - [mastering\_ros\_robot\_description\_pkg](https://github.com/jocacace/mastering_ros_demo_pkg)  
+
+- **Chapter 3**: _Simulating Robots Using ROS and Gazebo_
+ - [seven\_dof\_arm\_gazebo](https://github.com/jocacace/seven_dof_arm_gazebo)
+ - [diff\_wheeled\_robot\_gazebo](https://github.com/jocacace/diff_wheeled_robot_gazebo)
+ - [diff\_wheeled\_robot\_control](https://github.com/jocacace/diff_wheeled_robot_control)  
+- **Chapter 4**: _Simulating Robots Using ROS and V-REP_ 
+
+- **Chapter 5**: _Using ROS MoveIt! and Navigation stack_  
+
+- **Chapter 6**: _Working with Pluginlib, Nodelets and Gazebo plugins_ 
+
+- **Chapter 7**: _Writing ROS Controllers and Visualization plugins_
+
+- **Chapter 8**: _Interfacing I/O boards, sensors and actuators to ROS_
+
+- **Chapter 9**: _Programming Vision sensors using ROS, Open-CV and PCL_
+
+- **Chapter 10**: _Building and interfacing a differential drive mobile robot hardware in ROS_
+
+- **Chapter 11**: _Exploring advanced capabilities of ROS-MoveIt!_
+ 
+
+- **Chapter 12**: _Using ROS in Matlab and Simulink_ 
+
+- **Chapter 13**: _ROS for Industrial Robots_
+
+- **Chapter 14**: _Troubleshooting and best 
+practices in ROS_
+
 
 
 ### **Installation** 
