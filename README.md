@@ -32,7 +32,7 @@ Click on the repository name to directly get the code use in the chapters.
   - [mastering\_ros\_demo\_pkg](https://github.com/jocacace/mastering_ros_demo_pkg)  
 
 - **Chapter 2**: _Working with 3D Robot Modeling in ROS_
-  - [mastering\_ros\_robot\_description\_pkg](https://github.com/jocacace/mastering_ros_demo_pkg)  
+  - [mastering\_ros\_robot\_description\_pkg](https://github.com/jocacace/mastering_ros_robot_description_pkg)  
 
 - **Chapter 3**: _Simulating Robots Using ROS and Gazebo_
   - [seven\_dof\_arm\_gazebo](https://github.com/jocacace/seven_dof_arm_gazebo)
