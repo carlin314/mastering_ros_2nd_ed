@@ -2,7 +2,7 @@
 #### Design, build and simulate complex robots using Robot Operating System.
 
 
-[Book](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) source code main repository.
+[Book](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition){:target="_blank"} source code main repository.
 
 ![book_cover](http://wpage.unina.it/jonathan.cacace/Media/book_cover.png "mastering_ros_for_robotics_programming")
 
