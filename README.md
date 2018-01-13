@@ -39,6 +39,9 @@ Click on the repository name to directly get the code use in the chapters.
   - [diff\_wheeled\_robot\_gazebo](https://github.com/jocacace/diff_wheeled_robot_gazebo)
   - [diff\_wheeled\_robot\_control](https://github.com/jocacace/diff_wheeled_robot_control)  
 - **Chapter 4**: _Simulating Robots Using ROS and V-REP_ 
+  - [vrep\_plugin](https://github.com/jocacace/vrep_plugin/)
+  - [vrep\_common](https://github.com/jocacace/vrep_common/)
+
 
 - **Chapter 5**: _Using ROS MoveIt! and Navigation stack_  
 
