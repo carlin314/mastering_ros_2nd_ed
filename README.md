@@ -41,6 +41,7 @@ Click on the repository name to directly get the code use in the chapters.
 - **Chapter 4**: _Simulating Robots Using ROS and V-REP_ 
   - [vrep\_plugin](https://github.com/jocacace/vrep_plugin/)
   - [vrep\_common](https://github.com/jocacace/vrep_common/)
+  - [vrep\_demo\_pkg](https://github.com/jocacace/vrep_demo_pkg)
 
 
 - **Chapter 5**: _Using ROS MoveIt! and Navigation stack_  
