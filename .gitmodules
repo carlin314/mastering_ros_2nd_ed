@@ -16,3 +16,12 @@
 [submodule "seven_dof_arm_config"]
 	path = seven_dof_arm_config
 	url = https://github.com/jocacace/seven_dof_arm_config
+[submodule "nodelet_hello_world"]
+	path = nodelet_hello_world
+	url = https://github.com/jocacace/nodelet_hello_world
+[submodule "plugin_calculator"]
+	path = plugin_calculator
+	url = https://github.com/jocacace/plugin_calculator
+[submodule "gazebo_basic_world_plugin"]
+	path = gazebo_basic_world_plugin
+	url = https://github.com/jocacace/gazebo_basic_world_plugin
