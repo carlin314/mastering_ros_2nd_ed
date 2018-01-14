@@ -78,7 +78,7 @@ To pull the submodules in case of remote repository update, run the following co
 ```git submodule update --recursive --remote```
 
 #### **Dependencies** 
-To compile the workspace with this meta-package you should installa the following dependencies
+To compile the workspace with this meta-package you should installa the following dependencies  
 ```sudo apt-get install ros-kinetic-controller-manager ros-kinetic-joint-state-controller ros-kinetic-joy ros-kinetic-gazebo-ros-control```
 ### **Get this book** (in pre-order)
 - [Packt Publishing](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) 
