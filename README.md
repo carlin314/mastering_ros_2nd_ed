@@ -45,6 +45,7 @@ Click on the repository name to directly get the code use in the chapters.
 
 
 - **Chapter 5**: _Using ROS MoveIt! and Navigation stack_  
+  - [seven\_dof\_arm\_config](https://github.com/jocacace/seven_dof_arm_config)
 
 - **Chapter 6**: _Working with Pluginlib, Nodelets and Gazebo plugins_ 
 
