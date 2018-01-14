@@ -25,3 +25,12 @@
 [submodule "gazebo_basic_world_plugin"]
 	path = gazebo_basic_world_plugin
 	url = https://github.com/jocacace/gazebo_basic_world_plugin
+[submodule "vrep_plugin"]
+	path = vrep_plugin
+	url = https://github.com/jocacace/vrep_plugin
+[submodule "vrep_common"]
+	path = vrep_common
+	url = https://github.com/jocacace/vrep_common
+[submodule "vrep_demo_pkg"]
+	path = vrep_demo_pkg
+	url = https://github.com/jocacace/vrep_demo_pkg
