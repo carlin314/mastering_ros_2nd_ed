@@ -48,6 +48,9 @@ Click on the repository name to directly get the code use in the chapters.
   - [seven\_dof\_arm\_config](https://github.com/jocacace/seven_dof_arm_config)
 
 - **Chapter 6**: _Working with Pluginlib, Nodelets and Gazebo plugins_ 
+  - [gazebo\_basic\_world\_plugin](https://github.com/jocacace/gazebo_basic_world_plugin)
+  - [plugin\_calculator](https://github.com/jocacace/plugin_calculator)
+  - [nodelet\_hello\_world](https://github.com/jocacace/nodelet_hello_world)
 
 - **Chapter 7**: _Writing ROS Controllers and Visualization plugins_
 
