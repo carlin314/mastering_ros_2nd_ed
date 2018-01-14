@@ -13,3 +13,6 @@
 [submodule "diff_wheeled_robot_control"]
 	path = diff_wheeled_robot_control
 	url = https://github.com/jocacace/diff_wheeled_robot_control
+[submodule "seven_dof_arm_config"]
+	path = seven_dof_arm_config
+	url = https://github.com/jocacace/seven_dof_arm_config
