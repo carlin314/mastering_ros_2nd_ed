@@ -60,6 +60,8 @@ Click on the repository name to directly get the code use in the chapters.
 - **Chapter 8**: _Interfacing I/O boards, sensors and actuators to ROS_
 
 - **Chapter 9**: _Programming Vision sensors using ROS, Open-CV and PCL_
+  - [cv\_bridge\_tutorial\_pkg](https://github.com/jocacace/cv_bridge_tutorial_pkg)
+
 
 - **Chapter 10**: _Building and interfacing a differential drive mobile robot hardware in ROS_
 
