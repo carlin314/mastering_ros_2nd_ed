@@ -34,3 +34,9 @@
 [submodule "vrep_demo_pkg"]
 	path = vrep_demo_pkg
 	url = https://github.com/jocacace/vrep_demo_pkg
+[submodule "my_controller"]
+	path = my_controller
+	url = https://github.com/jocacace/my_controller
+[submodule "rviz_teleop_commander"]
+	path = rviz_teleop_commander
+	url = https://github.com/jocacace/rviz_teleop_commander
