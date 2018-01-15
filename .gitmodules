@@ -40,3 +40,6 @@
 [submodule "rviz_teleop_commander"]
 	path = rviz_teleop_commander
 	url = https://github.com/jocacace/rviz_teleop_commander
+[submodule "cv_bridge_tutorial_pkg"]
+	path = cv_bridge_tutorial_pkg
+	url = https://github.com/jocacace/cv_bridge_tutorial_pkg
