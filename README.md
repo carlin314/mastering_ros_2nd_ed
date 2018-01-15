@@ -53,6 +53,9 @@ Click on the repository name to directly get the code use in the chapters.
   - [nodelet\_hello\_world](https://github.com/jocacace/nodelet_hello_world)
 
 - **Chapter 7**: _Writing ROS Controllers and Visualization plugins_
+  - [my\_controller](https://github.com/jocacace/my_controller)
+  - [rviz\_teleop\_commander](https://github.com/jocacace/rviz_teleop_commander)
+
 
 - **Chapter 8**: _Interfacing I/O boards, sensors and actuators to ROS_
 
