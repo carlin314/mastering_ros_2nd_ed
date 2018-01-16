@@ -43,3 +43,9 @@
 [submodule "cv_bridge_tutorial_pkg"]
 	path = cv_bridge_tutorial_pkg
 	url = https://github.com/jocacace/cv_bridge_tutorial_pkg
+[submodule "pcl_ros_tutorial"]
+	path = pcl_ros_tutorial
+	url = https://github.com/jocacace/pcl_ros_tutorial
+[submodule "apriltags_ros_demo"]
+	path = apriltags_ros_demo
+	url = https://github.com/jocacace/apriltags_ros_demo
