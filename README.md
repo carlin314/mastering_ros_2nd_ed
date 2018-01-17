@@ -86,7 +86,9 @@ Download all the submodules in the _src_ directory of your ROS workspace:
 
 To pull the submodules in case of remote repository update, run the following command in the mastering\_ros\_2nd\_ed directory:
 
-```git submodule update --recursive --remote```
+```git submodule update --recursive --remote```  
+```git submodule update --init --recursive```
+
 
 #### **Dependencies** 
 To compile the workspace with this meta-package you should installa the following dependencies  
