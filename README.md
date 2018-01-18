@@ -85,10 +85,12 @@ Download all the submodules in the _src_ directory of your ROS workspace:
 ```git clone --recursive https://github.com/jocacace/mastering_ros_2nd_ed```
 
 To pull the submodules in case of remote repository update, run the following command in the mastering\_ros\_2nd\_ed directory:
+ 
+```git submodule update --init --recursive```  
+```git pull```
 
-```git submodule update --recursive --remote```  
-```git submodule update --init --recursive```
-
+## **Compilation**
+```catkin_make -j1```
 
 #### **Dependencies** 
 To compile the workspace with this meta-package you should installa the following dependencies  
