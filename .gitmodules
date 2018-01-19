@@ -49,3 +49,6 @@
 [submodule "apriltags_ros_demo"]
 	path = apriltags_ros_demo
 	url = https://github.com/jocacace/apriltags_ros_demo
+[submodule "ros_matlab_test"]
+	path = ros_matlab_test
+	url = https://github.com/jocacace/ros_matlab_test
