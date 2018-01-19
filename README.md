@@ -57,7 +57,7 @@ Click on the repository name to directly get the code use in the chapters.
   - [rviz\_teleop\_commander](https://github.com/jocacace/rviz_teleop_commander)
 
 
-- **Chapter 8**: _Interfacing I/O boards, sensors and actuators to ROS_
+- **Chapter 8**: _Interfacing I/O boards, sensors and actuators to ROS_ (check book source code)
 
 - **Chapter 9**: _Programming Vision sensors using ROS, Open-CV and PCL_
   - [cv\_bridge\_tutorial\_pkg](https://github.com/jocacace/cv_bridge_tutorial_pkg)
@@ -65,7 +65,7 @@ Click on the repository name to directly get the code use in the chapters.
   - [apriltags\_ros\_demo](https://github.com/jocacace/apriltags_ros_demo)
 
 
-- **Chapter 10**: _Building and interfacing a differential drive mobile robot hardware in ROS_
+- **Chapter 10**: _Building and interfacing a differential drive mobile robot hardware in ROS_ (check book source code)
 
 - **Chapter 11**: _Exploring advanced capabilities of ROS-MoveIt!_
  
