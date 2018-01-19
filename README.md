@@ -71,6 +71,7 @@ Click on the repository name to directly get the code use in the chapters.
  
 
 - **Chapter 12**: _Using ROS in Matlab and Simulink_ 
+	- [ros\_matlab\_test](https://github.com/jocacace/ros_matlab_test)
 
 - **Chapter 13**: _ROS for Industrial Robots_
 
