@@ -69,8 +69,8 @@ Click on the repository name to directly get the code use in the chapters.
 (check book source code)
 
 - **Chapter 11**: _Exploring advanced capabilities of ROS-MoveIt!_
+  - [seven\_dof\_arm\_test](https://github.com/jocacace/seven_dof_arm_test)
  
-
 - **Chapter 12**: _Using ROS in Matlab and Simulink_ 
 	- [ros\_matlab\_test](https://github.com/jocacace/ros_matlab_test)
 
