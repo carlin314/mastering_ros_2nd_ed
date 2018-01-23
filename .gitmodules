@@ -52,3 +52,6 @@
 [submodule "ros_matlab_test"]
 	path = ros_matlab_test
 	url = https://github.com/jocacace/ros_matlab_test
+[submodule "seven_dof_arm_test"]
+	path = seven_dof_arm_test
+	url = https://github.com/jocacace/seven_dof_arm_test.git

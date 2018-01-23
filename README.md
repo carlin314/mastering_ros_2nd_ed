@@ -66,7 +66,6 @@ Click on the repository name to directly get the code use in the chapters.
 
 
 - **Chapter 10**: _Building and interfacing a differential drive mobile robot hardware in ROS_  
-
 (check book source code)
 
 - **Chapter 11**: _Exploring advanced capabilities of ROS-MoveIt!_
