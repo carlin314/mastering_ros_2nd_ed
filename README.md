@@ -28,8 +28,7 @@ This repository contains one sub-module for each chapter source code, in this wa
 
 Click on the repository name to directly get the code use in the chapters.
 
-- **Chapter 1**: _Introduction to ROS_:
-  - [mastering\_ros\_demo\_pkg](https://github.com/jocacace/mastering_ros_demo_pkg)  
+- **Chapter 1**: _Introduction to ROS_
 
 - **Chapter 2**: _Introduction to ROS - Part 2_:
   - [mastering\_ros\_demo\_pkg](https://github.com/jocacace/mastering_ros_demo_pkg)  
