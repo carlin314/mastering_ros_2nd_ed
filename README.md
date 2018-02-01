@@ -28,57 +28,58 @@ This repository contains one sub-module for each chapter source code, in this wa
 
 Click on the repository name to directly get the code use in the chapters.
 
-- **Chapter 1**: _Introduction to ROS and its Package Management_:
+- **Chapter 1**: _Introduction to ROS_:
   - [mastering\_ros\_demo\_pkg](https://github.com/jocacace/mastering_ros_demo_pkg)  
 
-- **Chapter 2**: _Working with 3D Robot Modeling in ROS_
+- **Chapter 2**: _Introduction to ROS - Part 2_:
+  - [mastering\_ros\_demo\_pkg](https://github.com/jocacace/mastering_ros_demo_pkg)  
+
+- **Chapter 3**: _Working with 3D Robot Modeling in ROS_
   - [mastering\_ros\_robot\_description\_pkg](https://github.com/jocacace/mastering_ros_robot_description_pkg)  
 
-- **Chapter 3**: _Simulating Robots Using ROS and Gazebo_
+- **Chapter 4**: _Simulating Robots Using ROS and Gazebo_
   - [seven\_dof\_arm\_gazebo](https://github.com/jocacace/seven_dof_arm_gazebo)
   - [diff\_wheeled\_robot\_gazebo](https://github.com/jocacace/diff_wheeled_robot_gazebo)
   - [diff\_wheeled\_robot\_control](https://github.com/jocacace/diff_wheeled_robot_control)  
-- **Chapter 4**: _Simulating Robots Using ROS and V-REP_ 
+- **Chapter 5**: _Simulating Robots Using ROS and V-REP_ 
   - [vrep\_plugin](https://github.com/jocacace/vrep_plugin/)
   - [vrep\_common](https://github.com/jocacace/vrep_common/)
   - [vrep\_demo\_pkg](https://github.com/jocacace/vrep_demo_pkg)
 
-
-- **Chapter 5**: _Using ROS MoveIt! and Navigation stack_  
+- **Chapter 6**: _Using ROS MoveIt! and Navigation stack_  
   - [seven\_dof\_arm\_config](https://github.com/jocacace/seven_dof_arm_config)
 
-- **Chapter 6**: _Working with Pluginlib, Nodelets and Gazebo plugins_ 
+- **Chapter 7**: _Working with Pluginlib, Nodelets and Gazebo plugins_ 
   - [gazebo\_basic\_world\_plugin](https://github.com/jocacace/gazebo_basic_world_plugin)
   - [plugin\_calculator](https://github.com/jocacace/plugin_calculator)
   - [nodelet\_hello\_world](https://github.com/jocacace/nodelet_hello_world)
 
-- **Chapter 7**: _Writing ROS Controllers and Visualization plugins_
+- **Chapter 8**: _Writing ROS Controllers and Visualization plugins_
   - [my\_controller](https://github.com/jocacace/my_controller)
   - [rviz\_teleop\_commander](https://github.com/jocacace/rviz_teleop_commander)
 
-
-- **Chapter 8**: _Interfacing I/O boards, sensors and actuators to ROS_  
+- **Chapter 9**: _Interfacing I/O boards, sensors and actuators to ROS_  
 (check book source code)
 
-- **Chapter 9**: _Programming Vision sensors using ROS, Open-CV and PCL_
+- **Chapter 10**: _Programming Vision sensors using ROS, Open-CV and PCL_
   - [cv\_bridge\_tutorial\_pkg](https://github.com/jocacace/cv_bridge_tutorial_pkg)
   - [pcl\_ros\_tutorial](https://github.com/jocacace/pcl_ros_tutorial)
   - [apriltags\_ros\_demo](https://github.com/jocacace/apriltags_ros_demo)
 
 
-- **Chapter 10**: _Building and interfacing a differential drive mobile robot hardware in ROS_  
+- **Chapter 11**: _Building and interfacing a differential drive mobile robot hardware in ROS_  
 (check book source code)
 
-- **Chapter 11**: _Exploring advanced capabilities of ROS-MoveIt!_
+- **Chapter 12**: _Exploring advanced capabilities of ROS-MoveIt!_
   - [seven\_dof\_arm\_test](https://github.com/jocacace/seven_dof_arm_test)
  
-- **Chapter 12**: _Using ROS in Matlab and Simulink_ 
+- **Chapter 13**: _Using ROS in Matlab and Simulink_ 
 	- [ros\_matlab\_test](https://github.com/jocacace/ros_matlab_test)
 
-- **Chapter 13**: _ROS for Industrial Robots_  
+- **Chapter 14**: _ROS for Industrial Robots_  
 (check book source code)
 
-- **Chapter 14**: _Troubleshooting and best 
+- **Chapter 15**: _Troubleshooting and best 
 practices in ROS_
 
 
